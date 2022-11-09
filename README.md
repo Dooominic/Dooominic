@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Dooominic
-- 👀 I’m interested in Cyber Security and Computer Science 
+- 👀 I’m interested in Cyber Security and Software Development 
